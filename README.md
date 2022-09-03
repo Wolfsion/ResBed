@@ -1,1 +1,1 @@
-"# ImgBed" 
+# ImgBed
